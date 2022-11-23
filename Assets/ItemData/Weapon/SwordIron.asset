@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27abc8ec86b33e645a3bfbc2e0e58312, type: 3}
+  m_Name: SwordIron
+  m_EditorClassIdentifier: 
+  itemCategory: 6
+  nameItem: Iron sword
+  id: 0
+  rarity: 1
+  description: Regular sword made of iron.
+  isUnique: 1
+  imgSprite: {fileID: 21300000, guid: 8f28955d92038974a9b04aafaeea79b0, type: 3}
